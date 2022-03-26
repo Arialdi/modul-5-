@@ -1,0 +1,15 @@
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\bin\Debug\net6.0\modul5_1302200087.exe
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\bin\Debug\net6.0\modul5_1302200087.deps.json
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\bin\Debug\net6.0\modul5_1302200087.runtimeconfig.json
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\bin\Debug\net6.0\modul5_1302200087.dll
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\bin\Debug\net6.0\modul5_1302200087.pdb
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.csproj.AssemblyReference.cache
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.AssemblyInfoInputs.cache
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.AssemblyInfo.cs
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.dll
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\refint\modul5_1302200087.dll
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.pdb
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\modul5_1302200087.genruntimeconfig.cache
+C:\Users\AORUS\Documents\GitHub\modul-5-\modul5_1302200087\modul5_1302200087\obj\Debug\net6.0\ref\modul5_1302200087.dll
